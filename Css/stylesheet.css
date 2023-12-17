@@ -1,0 +1,60 @@
+body {
+    background-image: url('C:/Users/SK/Desktop/Portfolio/Icons/output_image.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1550px 690px;
+    background-color: black;
+}
+
+.container {
+  width: 800px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  float: right;
+  margin-top: 150px;
+}
+
+.para{
+  color: paleturquoise;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family:"Cascadia code";
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:  ;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family:"Lucida Handwriting";
+}
+
+li a:hover:not(.active) {
+  background-color: #660066;
+}
+
+
+
+img{
+  height: 40px;
+  width: 40px;
+}
+
+
